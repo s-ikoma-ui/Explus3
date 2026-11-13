@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+  <title id="title">敷地を横切る人</title>
+  <desc id="desc">道路から住宅の前庭を横切って近道をする歩行者を描いたイラスト</desc>
+  <rect width="1200" height="780" fill="#e9e9df"/>
+  <path d="M0 0h1200v355H0z" fill="#dbe5e1"/>
+  <circle cx="970" cy="112" r="44" fill="#f3d993"/>
+  <path d="m96 342 244-183 255 183v223H96z" fill="#f8f6ef" stroke="#424c47" stroke-width="8" stroke-linejoin="round"/>
+  <path d="m55 350 285-216 301 216" fill="none" stroke="#45514b" stroke-width="15" stroke-linejoin="round"/>
+  <path d="M366 576V386h109v190" fill="#c6a889" stroke="#424c47" stroke-width="7"/>
+  <path d="M503 428h95v91h-95zM133 399h94v79h-94z" fill="#cadbd6" stroke="#424c47" stroke-width="7"/>
+  <path d="M0 576h1200v204H0z" fill="#c9c8b9"/>
+  <path d="M0 659h1200v121H0z" fill="#777d78"/>
+  <path d="M0 657h1200" stroke="#f8f6ef" stroke-width="8" stroke-dasharray="42 30" opacity=".8"/>
+  <path d="M115 576v-91m0 31h971m-971 60v-91m971 91v-91" fill="none" stroke="#53685d" stroke-width="12"/>
+  <path d="M115 516h971" stroke="#53685d" stroke-width="8" stroke-dasharray="18 13"/>
+  <path d="M193 549c178-108 410-112 632-44" fill="none" stroke="#bd894c" stroke-width="9" stroke-dasharray="19 16" stroke-linecap="round"/>
+  <path d="m802 489 38 18-40 16" fill="none" stroke="#bd894c" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="510" cy="330" r="25" fill="#d3a17b" stroke="#424c47" stroke-width="6"/>
+  <path d="M486 361q25-20 50 0l19 87-41 31-44-31z" fill="#587164" stroke="#424c47" stroke-width="6" stroke-linejoin="round"/>
+  <path d="m479 388-45 60m96-62 45 45m-59-5 53 73m-76-73-48 78" fill="none" stroke="#424c47" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M861 547q47-66 96 0" fill="#8d9b7c"/>
+  <path d="M907 550v-67m-32 31 32-31 31 31" fill="none" stroke="#526859" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="106" y="607" width="988" height="21" rx="10" fill="#bdc6b5"/>
+</svg>

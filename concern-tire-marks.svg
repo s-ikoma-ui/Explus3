@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+  <title id="title">コンクリートに残る車のタイヤ痕</title>
+  <desc id="desc">角地のコンクリート駐車場に車のタイヤ痕がくっきり残ったイラスト</desc>
+  <rect width="1200" height="780" fill="#e5e8e4"/>
+  <path d="M0 0h1200v330H0z" fill="#d8e2de"/>
+  <path d="M0 313h1200v37H0z" fill="#a5afa9"/>
+  <path d="M108 310 364 98h621l130 212z" fill="#f1efe7" stroke="#505952" stroke-width="8" stroke-linejoin="round"/>
+  <path d="m321 131 43-58h347v237H321z" fill="#e6e5dc" stroke="#505952" stroke-width="7"/>
+  <path d="M402 170h91v82h-91zm126 0h91v82h-91z" fill="#c7d7d2" stroke="#505952" stroke-width="6"/>
+  <path d="M0 350h1200v430H0z" fill="#bcbeb8"/>
+  <path d="M0 350h1200M582 350v430M0 585h1200" stroke="#d9d8d0" stroke-width="7"/>
+  <path d="M737 352c13 82 20 139 94 204 66 59 141 87 259 91M802 350c15 81 25 126 86 178 63 55 123 76 202 84" fill="none" stroke="#555854" stroke-width="17" stroke-linecap="round"/>
+  <path d="M743 352c13 82 20 139 94 204 66 59 141 87 259 91M808 350c15 81 25 126 86 178 63 55 123 76 202 84" fill="none" stroke="#343a36" stroke-width="7" stroke-dasharray="15 18" stroke-linecap="round"/>
+  <path d="M817 414q-22-21-46-13m82 65q-23-18-49-9m103 70q-24-17-50-8m108 65q-24-15-51-5m137 12q-23-17-47-10m109 11q-21-18-45-13" fill="none" stroke="#73756f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M803 335h133q28 0 41 22l44 79H766l13-79q4-22 24-22z" fill="#85968b" stroke="#414b45" stroke-width="7" stroke-linejoin="round"/>
+  <path d="m833 345-24 64h116l-25-64z" fill="#d1dfd9" stroke="#414b45" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M782 411h227" stroke="#414b45" stroke-width="6"/>
+  <circle cx="819" cy="441" r="24" fill="#414642"/><circle cx="969" cy="441" r="24" fill="#414642"/>
+  <circle cx="819" cy="441" r="10" fill="#d5d2c8"/><circle cx="969" cy="441" r="10" fill="#d5d2c8"/>
+  <path d="m1043 350 157 10v210h-127" fill="#d0d5cf" stroke="#505952" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M1044 361v197" stroke="#f2f0e9" stroke-width="10"/>
+  <path d="M1090 605h110M1113 641h87" stroke="#8a938c" stroke-width="5"/>
+</svg>

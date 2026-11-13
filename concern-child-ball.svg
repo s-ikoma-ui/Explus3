@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+  <title id="title">ボールを取りに敷地へ入る子ども</title>
+  <desc id="desc">道路から家の脇の細い通路へ、転がったボールを取りに入る子どものイラスト</desc>
+  <rect width="1200" height="780" fill="#e8e9df"/>
+  <path d="M0 0h1200v355H0z" fill="#d9e3df"/>
+  <path d="m270 343 329-237 319 237v280H270z" fill="#f5f2e9" stroke="#4b554f" stroke-width="8" stroke-linejoin="round"/>
+  <path d="m226 350 373-274 367 274" fill="none" stroke="#4b554f" stroke-width="15" stroke-linejoin="round"/>
+  <path d="M694 433h116v116H694z" fill="#c9d9d3" stroke="#4b554f" stroke-width="7"/>
+  <path d="M837 617V292h149v325" fill="#adb9ad" stroke="#4b554f" stroke-width="8"/>
+  <path d="M854 326h115M854 371h115M854 416h115M854 461h115M854 506h115" stroke="#e4e6dc" stroke-width="7"/>
+  <path d="M0 617h1200v163H0z" fill="#888d87"/>
+  <path d="M0 617h1200" stroke="#e9e5d8" stroke-width="8"/>
+  <path d="M91 617v-87m0 26h999m-999 61v-87m999 87v-87" fill="none" stroke="#53685d" stroke-width="12"/>
+  <path d="M91 561h999" stroke="#53685d" stroke-width="8" stroke-dasharray="18 14"/>
+  <path d="M976 647c-130-94-263-136-429-128" fill="none" stroke="#bd894c" stroke-width="8" stroke-dasharray="18 15" stroke-linecap="round"/>
+  <path d="m551 505-36 17 38 16" fill="none" stroke="#bd894c" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="885" cy="520" r="23" fill="#d5a77f" stroke="#454e48" stroke-width="6"/>
+  <path d="M864 510q4-34 40-23l17 19-9 5-18-8-27 17z" fill="#4a514b"/>
+  <path d="M865 549q23-19 45 0l18 57h-86z" fill="#ba8967" stroke="#454e48" stroke-width="6" stroke-linejoin="round"/>
+  <path d="m870 566-36 27m69-22 29 22m-67 13-27 38m61-38 28 31" fill="none" stroke="#454e48" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="488" cy="626" r="27" fill="#d4a84e" stroke="#4b554f" stroke-width="6"/>
+  <path d="M468 610q19 15 39 31m-37 5q20-16 38-34" fill="none" stroke="#f5f2e9" stroke-width="5"/>
+  <path d="M190 616v-83m0 29h50m-50 54v-83m50 83v-83" fill="none" stroke="#667969" stroke-width="9"/>
+  <path d="M189 546h52" stroke="#667969" stroke-width="7"/>
+  <path d="M1014 598q38-55 79 0" fill="#9aa48c"/>
+  <path d="M1054 599v-58m-28 25 28-25 28 25" fill="none" stroke="#526859" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
